@@ -26,11 +26,11 @@ public class portafolio {
         System.out.println("");
 
         //menu
-            System.out.println("[1] la suma de dos numeros ");
+            System.out.println("[1] La suma de dos numeros ");
             System.out.println("[2] ");
             System.out.println("[3] ");
-            System.out.println("[0] salir");
-            System.out.print("[?] ");
+            System.out.println("[0] Salir");
+            System.out.print("[?] Elige una opción ");
             opcion = scanner.nextInt();
 
         // opciones
